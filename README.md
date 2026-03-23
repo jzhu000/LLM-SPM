@@ -1,2 +1,2 @@
 # LLM-SPM
-Coming Soon...
+Coming soon.
